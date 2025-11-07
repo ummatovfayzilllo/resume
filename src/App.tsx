@@ -1,7 +1,6 @@
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import { IconButton } from "@mui/material";
 import { DarkMode, LightMode } from "@mui/icons-material";
-// import fayzill_png from "/Fayzillo_ummatov.jpg";
 import { useState } from "react";
 
 // 🔹 Reusable Section Component
