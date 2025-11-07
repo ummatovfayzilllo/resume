@@ -65,11 +65,11 @@ function App() {
           >
             <div className="flex flex-col lg:flex-row flex-wrap gap-8 items-center">
               {/* 🖼 Rasm */}
-              <img
+              {/* <img
                 src={fayzill_png}
                 className="w-40 h-40 sm:w-48 sm:h-48 rounded-2xl object-cover shadow-lg hover:scale-105 transition-transform duration-300"
                 alt="Fayzillo Ummatov"
-              />
+              /> */}
 
               {/* ℹ️ Ma’lumotlar */}
               <div className="flex flex-col md:flex-row gap-10 w-full justify-between">
